@@ -1,0 +1,15 @@
+.BtnAjoutRessource {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    border: none;
+    background: none;
+
+    .btn {
+        background-color: black;
+
+        .plus {
+            color: white;
+        }
+    }
+}

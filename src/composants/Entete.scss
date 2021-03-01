@@ -1,0 +1,28 @@
+.Entete {
+    margin: 0;
+    padding: 20px;
+    font-size: 1.2em;
+    background-color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+
+    .logo {
+        // align-self: flex-start;
+        display: flex;
+        align-self : flex-start;
+    }
+
+    .avatar{
+        // align-self: flex-end;
+        display: flex;
+        align-self: flex-end;
+        
+        // img {
+        //     border-radius: 50%;
+        // }
+    }
+    
+}

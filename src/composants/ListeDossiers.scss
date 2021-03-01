@@ -1,0 +1,17 @@
+.ListeDossiers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    // margin: 0;
+    // padding: 0;
+    text-decoration: none;
+    // border: 1px solid red;
+
+    li{
+        text-decoration: none;
+        // border: 1px solid red;
+        margin: 0;
+        padding: 15px 30px;
+        justify-content: space-evenly;
+    }
+}
